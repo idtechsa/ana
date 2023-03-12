@@ -1,3 +1,3 @@
 import ana
 
-ana.Ana("@TwittosAcc", "twitter_credentials.json", "open_ai_credentials.json")
+ana.Ana("@ID_Business_sa", "twitter_credentials.json", "open_ai_credentials.json")
